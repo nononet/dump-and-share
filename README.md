@@ -1,6 +1,6 @@
 # dump-and-share
-Student-Teacher sharing repository.
-Version: V0.00
-Administrator: nononet
-Link https://github.com/nononet/dump-and-share
+* __Description:__ Student-Teacher sharing repository.
+* __Version:__ V0.00
+* __Administrator:__ nononet
+* __Link:__ https://github.com/nononet/dump-and-share
 
